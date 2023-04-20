@@ -1,6 +1,6 @@
 #Heart Attack Predict Project
 
-Onoing project from 041923 ~
+Ongoing project from 041923 ~
 
 Participant: Heejung Lim, Gunho Choo
 
