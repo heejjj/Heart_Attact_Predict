@@ -6,6 +6,6 @@
 
 + Dataset: Heart Attack Analysis & Prediction Dataset from Kaggle
 
-+ Bio & Medical AI Education Program
++ Bio & Medical AI Anaylsis Program hosted by KTD
 
 + Participating institution: Chungbuk National University Hospital(CBNUH)
